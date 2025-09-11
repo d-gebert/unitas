@@ -8,10 +8,10 @@ A Perl-based pipeline for the annotation and quantification of small RNAs, such 
 - Automatic preprocessing of input FASTQ/FASTA files
 - Adapter trimming and quality filtering
 - Annotation of reads against multiple reference databases:
-  - miRBase (miRNAs)
-  - tRNA and rRNA databases
+  - miRBase (www.mirbase.org)
+  - Genomic tRNA database (www.gtrnadb.org)
   - piRNA cluster database (www.pirnaclusterdb.org)
-  - Other ncRNA sources
+  - Ensembl (www.ensembl.org)
 - Output of comprehensive annotation reports
 - Generation of summary statistics and plots
 - Configurable reference databases
