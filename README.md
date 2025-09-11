@@ -95,6 +95,3 @@ If you use UNITAS in your research, please cite:
 MIT License.
 
 ```
-
-Do you want me to also add a **"Quick Start" example with typical pipeline output files** (e.g. `*_summary.txt`, `*_annotation.txt`, plots), so that new users immediately see what to expect?
-```
