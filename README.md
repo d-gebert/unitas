@@ -88,7 +88,7 @@ This will process `sample.fastq`, annotate reads against human reference databas
 If you use UNITAS in your research, please cite:
 
 **Gebert D, et al.** UNITAS: a universal tool for annotation of small RNAs. *BMC Bioinformatics*. 2017;18:401.
-[https://doi.org/10.1186/s12859-017-1746-1](https://doi.org/10.1186/s12859-017-1746-1)
+[https://doi.org/10.1186/s12864-017-4031-9](https://doi.org/10.1186/s12864-017-4031-9)
 
 ## License
 
