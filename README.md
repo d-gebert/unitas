@@ -10,7 +10,7 @@ A Perl-based pipeline for the annotation and quantification of small RNAs, such 
 - Annotation of reads against multiple reference databases:
   - miRBase (miRNAs)
   - tRNA and rRNA databases
-  - piRNA cluster databases
+  - piRNA cluster database (www.pirnaclusterdb.org)
   - Other ncRNA sources
 - Output of comprehensive annotation reports
 - Generation of summary statistics and plots
