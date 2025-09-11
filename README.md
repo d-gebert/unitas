@@ -14,7 +14,7 @@ A Perl-based pipeline for the annotation and quantification of small RNAs, such 
   - Other ncRNA sources
 - Output of comprehensive annotation reports
 - Generation of summary statistics and plots
-- Configurable reference databases (human and non-human)
+- Configurable reference databases
 
 ## Requirements
 
@@ -28,7 +28,7 @@ A Perl-based pipeline for the annotation and quantification of small RNAs, such 
   - `LWP::Simple`
   - `LWP::UserAgent`
   - `Scalar::Util`
-- External tools:
+- External tools (automatically downloaded and compiled):
   - `SeqMap` (for sequence alignment)
 
 Install missing Perl modules via CPAN:
