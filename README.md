@@ -42,8 +42,8 @@ cpan install Archive::Extract Getopt::Long File::Path LWP::Simple
 Clone the repository:
 
 ```bash
-git clone https://github.com/d-gebert/UNITAS.git
-cd UNITAS
+git clone https://github.com/d-gebert/unitas.git
+cd unitas
 ```
 
 Make the script executable:
@@ -57,7 +57,7 @@ chmod +x unitas_1.9.1.pl
 Basic command:
 
 ```bash
-perl unitas_1.9.1.pl -i input.fastq -s species -o output_dir
+perl unitas_1.9.1.pl -i input.fastq -s species
 ```
 
 ### Common options
