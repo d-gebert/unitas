@@ -1,6 +1,6 @@
 # UNITAS
 
-**UNITAS** (Universal small RNA Annotation Tool for Next-Generation Sequencing)  
+**UNITAS** (the universal tool for annotation of small RNAs)  
 A Perl-based pipeline for the annotation and quantification of small RNAs, such as miRNAs, piRNAs, siRNAs, and tRNA fragments, from next-generation sequencing (NGS) data.
 
 ## Features
