@@ -93,5 +93,3 @@ If you use UNITAS in your research, please cite:
 ## License
 
 MIT License.
-
-```
