@@ -49,7 +49,7 @@ cd unitas
 Make the script executable:
 
 ```bash
-chmod +x unitas_1.9.1.pl
+chmod +x unitas_1.9.2.pl
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ chmod +x unitas_1.9.1.pl
 Basic command:
 
 ```bash
-perl unitas_1.9.1.pl -i input.fastq -s species
+perl unitas_1.9.2.pl -i input.fastq -s species
 ```
 
 ### Common options
@@ -69,13 +69,13 @@ perl unitas_1.9.1.pl -i input.fastq -s species
 For a full list of options, run:
 
 ```bash
-perl unitas_1.9.1.pl -h
+perl unitas_1.9.2.pl -h
 ```
 
 ## Example
 
 ```bash
-perl unitas_1.9.1.pl \
+perl unitas_1.9.2.pl \
   -i sample.fastq \
   -s homo_sapiens \
   -trim ?
