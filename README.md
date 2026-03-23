@@ -10,7 +10,7 @@
   - miRBase (mature and hairpin sequences)
   - Ensembl ncRNA collection
   - Ensembl cDNA sequences
-  - piRNA cluster database
+  - piRNA cluster database (www.pirnaclusterdb.org)
   - Genomic tRNA database (gtRNAdb)
   - User-provided custom references
 - **Advanced analysis features**:
