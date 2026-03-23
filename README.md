@@ -398,7 +398,7 @@ MIT License.
 ## Contact & Support
 
 - **Author**: Daniel Gebert (University of Cambridge, Department of Genetics)
-- **Contributor**: David Rosenkranz (MVZ Humangenetik der Universitätsmedizin Mainz)
+- **Author**: David Rosenkranz (MVZ Humangenetik der Universitätsmedizin Mainz)
 - **Twitter**: [@smallRNA_Mainz](https://twitter.com/smallRNA_Mainz) – Follow for software updates
 - **Issues**: Report bugs and feature requests via GitHub Issues
 
