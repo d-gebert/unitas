@@ -7,10 +7,10 @@
 - **Flexible input formats**: FASTQ, FASTA, SAM, and ELAND3 formats (plain or gzipped)
 - **3' adapter trimming**: Automatic detection and removal of unknown 3' adapter sequences with configurable parameters
 - **Comprehensive annotation** against multiple reference databases:
-  - miRBase (mature and hairpin sequences)
-  - Ensembl ncRNA collection
-  - Ensembl cDNA sequences
-  - Genomic tRNA database (gtRNAdb)
+  - miRBase (www.mirbase.org)
+  - Ensembl ncRNA collection (www.ensembl.org)
+  - Ensembl cDNA sequences (www.ensembl.org)
+  - Genomic tRNA database (www.gtrnadb.org)
   - piRNA cluster database (www.pirnaclusterdb.org)
   - User-provided custom references
 - **Advanced analysis features**:
